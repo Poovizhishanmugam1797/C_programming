@@ -13,10 +13,10 @@ class E
 		System.out.print(s1);
 		if(s1.equals(s))
 		{
-			System.out.print("\nPalindrome");
+			System.out.print("\nyes");
 		}
 		else
-			System.out.print("\nNot Palindrome");
+			System.out.print("\nno");
 	}//getd
 }//class
 		
